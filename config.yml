@@ -2,5 +2,5 @@ databases:
   mongo:
     host: localhost
     port: 27000
-    username: khangvt146
-    password: khang123@@
+    username: <username>
+    password: <password>
