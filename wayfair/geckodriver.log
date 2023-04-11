@@ -1675,3 +1675,4 @@ JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-
 JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-438d-562f-16587650bd02, line 7: Failed to create WebGL context: WebGL creation failed: 
 * WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
 * Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
