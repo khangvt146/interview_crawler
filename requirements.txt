@@ -1,0 +1,5 @@
+pymongo==4.3.3
+Scrapy==2.8.0
+selenium==4.8.3
+celery[mongodb]==5.2.7
+pyyaml==6.0

@@ -1,0 +1,1677 @@
+./geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver --port <PORT>
+
+For more information try --help
+
+1681108973221	geckodriver	INFO	Listening on 127.0.0.1:55529
+1681108973233	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "34829" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDLEN4d"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681108973736	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDLEN4d/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34829/devtools/browser/30ed3d76-cf84-4bce-bcc5-c7fb6bca7003
+1681108974807	Marionette	INFO	Listening on port 43217
+Read port: 43217
+1681108974854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1681109025913	geckodriver	INFO	Listening on 127.0.0.1:38309
+1681109025922	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "51179" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCd20vT"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681109026230	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCd20vT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51179/devtools/browser/f66de368-e6ac-4e00-b220-9e59cce32ea5
+1681109027280	Marionette	INFO	Listening on port 45871
+Read port: 45871
+1681109027350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1681109083429	geckodriver	INFO	Listening on 127.0.0.1:35063
+1681109083433	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "35187" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezf7yaY"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681109083770	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezf7yaY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35187/devtools/browser/c9db9664-a479-4874-8687-862672fccb37
+1681109084858	Marionette	INFO	Listening on port 45883
+Read port: 45883
+1681109084965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1681109363749	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1681109416243	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1681109473783	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1681186623589	geckodriver	INFO	Listening on 127.0.0.1:44735
+1681186624095	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "41947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBsXrIm"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681186624552	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBsXrIm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41947/devtools/browser/332c3bba-6ecc-47e7-88d8-48366f294537
+1681186625727	Marionette	INFO	Listening on port 42561
+Read port: 42561
+1681186625836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1681186653958	geckodriver	INFO	Listening on 127.0.0.1:40237
+1681186653967	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "39729" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFJGJtW"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681186654307	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFJGJtW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39729/devtools/browser/859f457f-8144-4a17-b121-9a9cab880cf2
+1681186655382	Marionette	INFO	Listening on port 42259
+Read port: 42259
+1681186655495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-df62-1779-100c42637d02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-df62-1779-100c42637d02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-df62-1779-100c42637d02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-df62-1779-100c42637d02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681187014942	geckodriver	INFO	Listening on 127.0.0.1:51919
+1681187014950	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "48745" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepLIqlG"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681187015267	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepLIqlG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48745/devtools/browser/9ddce3fe-6979-46af-bb4d-b60aa841a852
+1681187016180	Marionette	INFO	Listening on port 34297
+Read port: 34297
+1681187016279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e0ca-465e-086326135502, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e0ca-465e-086326135502, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e0ca-465e-086326135502, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e0ca-465e-086326135502, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681187040213	geckodriver	INFO	Listening on 127.0.0.1:50849
+1681187040221	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "57175" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0xI2NE"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681187040563	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0xI2NE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57175/devtools/browser/27228eae-eb4d-4d16-8f78-ccbd241778ef
+1681187041537	Marionette	INFO	Listening on port 33895
+Read port: 33895
+1681187041643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e0e3-a2e5-100fb0b85f02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e0e3-a2e5-100fb0b85f02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e0e3-a2e5-100fb0b85f02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e0e3-a2e5-100fb0b85f02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681188344871	geckodriver	INFO	Listening on 127.0.0.1:52721
+1681188344880	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "60165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevu4tKO"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681188345205	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevu4tKO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60165/devtools/browser/323e8b70-051e-41b2-a3f2-5335f4c181d3
+1681188346140	Marionette	INFO	Listening on port 38849
+Read port: 38849
+1681188346217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e5fc-1779-100c5944f002, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e5fc-1779-100c5944f002, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e5fc-1779-100c5944f002, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e5fc-1779-100c5944f002, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681188449682	geckodriver	INFO	Listening on 127.0.0.1:58521
+1681188449690	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "49355" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejzvwYd"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681188450001	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejzvwYd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49355/devtools/browser/b78ba070-2257-4b2d-a597-7c390684409f
+1681188450992	Marionette	INFO	Listening on port 35195
+Read port: 35195
+1681188451109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e665-1863-19db491af302, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e665-1863-19db491af302, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e665-1863-19db491af302, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e665-1863-19db491af302, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681188664902	geckodriver	INFO	Listening on 127.0.0.1:58949
+1681188664910	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "57853" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehCbQxV"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681188665228	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehCbQxV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57853/devtools/browser/b533669f-0b01-41ed-941d-7964208fc465
+1681188666231	Marionette	INFO	Listening on port 46511
+Read port: 46511
+1681188666347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e73c-a2e3-101147f69b02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e73c-a2e3-101147f69b02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e73c-a2e3-101147f69b02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e73c-a2e3-101147f69b02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681188704176	geckodriver	INFO	Listening on 127.0.0.1:37737
+1681188704184	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "55373" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKJBpyu"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681188704480	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKJBpyu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55373/devtools/browser/505ad828-3b23-4923-9a72-233b7845ee35
+1681188705517	Marionette	INFO	Listening on port 38377
+Read port: 38377
+1681188705616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e763-1779-100c5de9b202, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e763-1779-100c5de9b202, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e763-1779-100c5de9b202, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e763-1779-100c5de9b202, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681188723470	geckodriver	INFO	Listening on 127.0.0.1:50097
+1681188723477	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "41583" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerhyX9O"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681188723785	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerhyX9O/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41583/devtools/browser/ef362551-e334-4180-8c8d-a1d0da618ab7
+1681188724773	Marionette	INFO	Listening on port 42455
+Read port: 42455
+1681188724794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e776-a2e3-101148adb902, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e776-a2e3-101148adb902, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e776-a2e3-101148adb902, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-e776-a2e3-101148adb902, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681189525178	geckodriver	INFO	Listening on 127.0.0.1:38987
+1681189525187	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "34617" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEBJHA8"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681189525522	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEBJHA8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34617/devtools/browser/2e422834-75d2-48a0-9d7f-0805067896f0
+1681189526483	Marionette	INFO	Listening on port 34521
+Read port: 34521
+1681189526503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-ea98-a2e3-1011526c3a02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-ea98-a2e3-1011526c3a02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-ea98-a2e3-1011526c3a02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-ea98-a2e3-1011526c3a02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681189710194	geckodriver	INFO	Listening on 127.0.0.1:44129
+1681189710203	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "56621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyqSUbp"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681189710588	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyqSUbp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56621/devtools/browser/e3e6567d-5882-4fb3-a2c2-53ea33ca1223
+1681189711604	Marionette	INFO	Listening on port 42823
+Read port: 42823
+1681189711730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-eb52-177e-100f25c6a602, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-eb52-177e-100f25c6a602, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-eb52-177e-100f25c6a602, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-eb52-177e-100f25c6a602, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681191823637	geckodriver	INFO	Listening on 127.0.0.1:33563
+1681191823645	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "39009" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOlYOgK"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681191823958	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOlYOgK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39009/devtools/browser/c1ed369e-8449-444d-b325-693de19d90f7
+1681191825006	Marionette	INFO	Listening on port 33221
+Read port: 33221
+1681191825066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f393-1863-19db6f210502, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f393-1863-19db6f210502, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f393-1863-19db6f210502, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f393-1863-19db6f210502, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681191847370	geckodriver	INFO	Listening on 127.0.0.1:60137
+1681191847378	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "45323" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLgLgL5"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681191847722	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLgLgL5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45323/devtools/browser/2deec66d-8de9-4a71-8e5d-1344cda9cc2f
+1681191848794	Marionette	INFO	Listening on port 33631
+Read port: 33631
+1681191848904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f3ab-455f-43a043829a02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f3ab-455f-43a043829a02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f3ab-455f-43a043829a02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f3ab-455f-43a043829a02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681191881273	geckodriver	INFO	Listening on 127.0.0.1:40353
+1681191881282	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "58387" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7hT5NF"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681191881604	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7hT5NF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58387/devtools/browser/8257c72d-9fb9-44dc-bc73-f6f6d945b5b6
+1681191882490	Marionette	INFO	Listening on port 36007
+Read port: 36007
+1681191882606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f3cd-a2e3-10116bc27202, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f3cd-a2e3-10116bc27202, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f3cd-a2e3-10116bc27202, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f3cd-a2e3-10116bc27202, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681191933265	geckodriver	INFO	Listening on 127.0.0.1:58161
+1681191933274	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "47631" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewCB1A4"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681191933572	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewCB1A4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47631/devtools/browser/1467dd3f-0f68-4984-8a7d-534afd034fbe
+1681191934608	Marionette	INFO	Listening on port 40093
+Read port: 40093
+1681191934711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f400-a2e3-10116c42a302, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f400-a2e3-10116c42a302, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f400-a2e3-10116c42a302, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f400-a2e3-10116c42a302, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681192335643	geckodriver	INFO	Listening on 127.0.0.1:39231
+1681192335650	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "53533" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefJjMQC"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681192335952	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefJjMQC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53533/devtools/browser/24755525-00af-41b9-af2d-3e02cb1d479e
+1681192336915	Marionette	INFO	Listening on port 41153
+Read port: 41153
+1681192336982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f593-1779-100c86b51f02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f593-1779-100c86b51f02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f593-1779-100c86b51f02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f593-1779-100c86b51f02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681192622884	geckodriver	INFO	Listening on 127.0.0.1:45799
+1681192622893	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "45409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBE5GNx"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681192623235	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBE5GNx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45409/devtools/browser/22e4edec-ce79-48fa-b035-6bb93f393011
+1681192624234	Marionette	INFO	Listening on port 36413
+Read port: 36413
+1681192624324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f6b2-1868-19d62b82e802, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f6b2-1868-19d62b82e802, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f6b2-1868-19d62b82e802, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f6b2-1868-19d62b82e802, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681193403008	geckodriver	INFO	Listening on 127.0.0.1:58637
+1681193403016	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "48827" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7vXEON"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681193403384	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7vXEON/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48827/devtools/browser/6dcd49b1-a5f6-4cfa-b51b-705a2e2d40a6
+1681193404323	Marionette	INFO	Listening on port 42727
+Read port: 42727
+1681193404439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f9bf-1865-19d7d7cb3402, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f9bf-1865-19d7d7cb3402, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f9bf-1865-19d7d7cb3402, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f9bf-1865-19d7d7cb3402, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681193441894	geckodriver	INFO	Listening on 127.0.0.1:53457
+1681193441903	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "53977" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileS2w8tK"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681193442220	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileS2w8tK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53977/devtools/browser/e12cca11-e87f-4f15-9351-f08055e46bfc
+1681193443250	Marionette	INFO	Listening on port 39075
+Read port: 39075
+1681193443326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f9e5-a2e3-10117a755202, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f9e5-a2e3-10117a755202, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f9e5-a2e3-10117a755202, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-f9e5-a2e3-10117a755202, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681193499838	geckodriver	INFO	Listening on 127.0.0.1:47321
+1681193499841	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "57951" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejHEyqT"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681193500140	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejHEyqT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57951/devtools/browser/599956bf-96d1-4b61-82d2-8fb09bcb6edf
+1681193501157	Marionette	INFO	Listening on port 42045
+Read port: 42045
+1681193501262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fa1f-1779-100c920eb102, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fa1f-1779-100c920eb102, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fa1f-1779-100c920eb102, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fa1f-1779-100c920eb102, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681193558362	geckodriver	INFO	Listening on 127.0.0.1:51135
+1681193558371	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "55691" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCm3EtS"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681193558711	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCm3EtS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55691/devtools/browser/932b698a-4e62-4491-9b48-631676cdda5a
+1681193559759	Marionette	INFO	Listening on port 34075
+Read port: 34075
+1681193559790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fa5a-177c-1011e17ab102, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fa5a-177c-1011e17ab102, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fa5a-177c-1011e17ab102, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fa5a-177c-1011e17ab102, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681193727646	geckodriver	INFO	Listening on 127.0.0.1:56511
+1681193727653	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "60269" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYRhEeq"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681193727986	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYRhEeq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60269/devtools/browser/3a5f082d-dcab-445b-a762-782c1030cf8d
+1681193728954	Marionette	INFO	Listening on port 33573
+Read port: 33573
+1681193728974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fb03-1863-19db811dde02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fb03-1863-19db811dde02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fb03-1863-19db811dde02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fb03-1863-19db811dde02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681193912874	geckodriver	INFO	Listening on 127.0.0.1:51515
+1681193912880	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "54907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileT0cF5s"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681193913218	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileT0cF5s/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54907/devtools/browser/585d40d1-3025-4cf7-aac0-80f5f37b7426
+1681193914137	Marionette	INFO	Listening on port 44405
+Read port: 44405
+1681193914209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fbbc-a2e3-10117edcb702, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fbbc-a2e3-10117edcb702, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fbbc-a2e3-10117edcb702, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fbbc-a2e3-10117edcb702, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681193960560	geckodriver	INFO	Listening on 127.0.0.1:33859
+1681193960569	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "46463" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAXE3rI"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681193960894	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAXE3rI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46463/devtools/browser/e21084dc-a91f-44d9-bbe2-f4751b26381a
+1681193961912	Marionette	INFO	Listening on port 44425
+Read port: 44425
+1681193961999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fbec-1863-19db8341a402, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fbec-1863-19db8341a402, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fbec-1863-19db8341a402, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fbec-1863-19db8341a402, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681194190014	geckodriver	INFO	Listening on 127.0.0.1:53485
+1681194190023	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "42197" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9f5LPm"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681194190317	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9f5LPm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42197/devtools/browser/85be19ce-49c3-405a-b00f-eb8a1eb303f6
+1681194191341	Marionette	INFO	Listening on port 41011
+Read port: 41011
+1681194191438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fcd1-1863-19db85758402, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fcd1-1863-19db85758402, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fcd1-1863-19db85758402, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fcd1-1863-19db85758402, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681194555578	geckodriver	INFO	Listening on 127.0.0.1:43773
+1681194555587	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "35345" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemF30QV"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681194555925	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemF30QV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35345/devtools/browser/cac40021-e26f-49df-8daa-9c935a0a789e
+1681194556812	Marionette	INFO	Listening on port 46195
+Read port: 46195
+1681194556919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fe3f-1868-19d62d77a502, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fe3f-1868-19d62d77a502, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fe3f-1868-19d62d77a502, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6434-fe3f-1868-19d62d77a502, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681201928594	geckodriver	INFO	Listening on 127.0.0.1:40433
+1681201928603	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "55991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTy666O"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681201928914	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTy666O/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55991/devtools/browser/3f70d040-628f-4d87-896d-cd65d7a3e4cd
+1681201929918	Marionette	INFO	Listening on port 43255
+Read port: 43255
+1681201930034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1681201958332	geckodriver	INFO	Listening on 127.0.0.1:36449
+1681201958341	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "50653" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6XlNdm"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681201958688	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6XlNdm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50653/devtools/browser/0cf70903-bac6-4adc-8e9f-d63672b99c16
+1681201959736	Marionette	INFO	Listening on port 33237
+Read port: 33237
+1681201959773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1b2a-465e-0863b74f2702, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1b2a-465e-0863b74f2702, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1b2a-465e-0863b74f2702, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1b2a-465e-0863b74f2702, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681202000886	geckodriver	INFO	Listening on 127.0.0.1:56561
+1681202000895	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "57191" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile31Cv3f"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681202001259	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile31Cv3f/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57191/devtools/browser/6eca909e-2a47-43ed-a10e-75d83aaea878
+1681202002353	Marionette	INFO	Listening on port 39907
+Read port: 39907
+1681202002424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1b54-465e-0863b79c8d02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1b54-465e-0863b79c8d02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1b54-465e-0863b79c8d02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1b54-465e-0863b79c8d02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681202063291	geckodriver	INFO	Listening on 127.0.0.1:48327
+1681202063298	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "53295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejMDj8t"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681202063719	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejMDj8t/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53295/devtools/browser/fabeef3b-6456-4a6b-bd27-33e7bf3d1f1d
+1681202064673	Marionette	INFO	Listening on port 46587
+Read port: 46587
+1681202064717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1b92-177e-100f3180a102, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1b92-177e-100f3180a102, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1b92-177e-100f3180a102, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1b92-177e-100f3180a102, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681202164403	geckodriver	INFO	Listening on 127.0.0.1:60215
+1681202164409	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "43551" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFE7Omq"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681202164729	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFE7Omq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43551/devtools/browser/0059c1bc-b3b7-48cc-abd9-5b2dec131150
+1681202165648	Marionette	INFO	Listening on port 43517
+Read port: 43517
+1681202165738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1bf7-a2e3-1011c3f98a02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1bf7-a2e3-1011c3f98a02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1bf7-a2e3-1011c3f98a02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1bf7-a2e3-1011c3f98a02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681202361246	geckodriver	INFO	Listening on 127.0.0.1:38937
+1681202361249	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "53371" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNblunn"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681202361595	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNblunn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53371/devtools/browser/7a375065-7e36-41a5-9430-e5b0c34fc54d
+1681202362623	Marionette	INFO	Listening on port 33229
+Read port: 33229
+1681202362676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1cbc-1779-100cde0a8602, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1cbc-1779-100cde0a8602, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1cbc-1779-100cde0a8602, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1cbc-1779-100cde0a8602, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681202537097	geckodriver	INFO	Listening on 127.0.0.1:36419
+1681202537105	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "56205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8GIDJg"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681202537393	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8GIDJg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56205/devtools/browser/b99ad969-860c-43c7-aead-93ac2b8cbabf
+1681202538406	Marionette	INFO	Listening on port 37041
+Read port: 37041
+1681202538425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1d6c-1779-100cdfa99e02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1d6c-1779-100cdfa99e02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1d6c-1779-100cdfa99e02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1d6c-1779-100cdfa99e02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681202672526	geckodriver	INFO	Listening on 127.0.0.1:60739
+1681202672531	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "41901" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGiYvqU"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681202672843	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGiYvqU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41901/devtools/browser/ed80a38a-d676-41ec-b2b2-f87d4ecf08b3
+1681202673879	Marionette	INFO	Listening on port 36829
+Read port: 36829
+1681202673952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1df3-562f-1658296f3302, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1df3-562f-1658296f3302, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1df3-562f-1658296f3302, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1df3-562f-1658296f3302, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681202750260	geckodriver	INFO	Listening on 127.0.0.1:48423
+1681202750266	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "40705" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenbd6R8"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681202750598	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenbd6R8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40705/devtools/browser/fb6dce13-aaa3-4dc0-a717-34acee42c788
+1681202751541	Marionette	INFO	Listening on port 39597
+Read port: 39597
+1681202751588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1e41-562f-165829fa1a02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1e41-562f-165829fa1a02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1e41-562f-165829fa1a02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1e41-562f-165829fa1a02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681202865526	geckodriver	INFO	Listening on 127.0.0.1:50783
+1681202865535	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "53855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejY3G8r"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681202865912	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejY3G8r/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53855/devtools/browser/eabfe31d-821b-4936-84c3-628130536ff4
+1681202866941	Marionette	INFO	Listening on port 40271
+Read port: 40271
+1681202867069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1eb5-1779-100ce23a3702, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1eb5-1779-100ce23a3702, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1eb5-1779-100ce23a3702, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1eb5-1779-100ce23a3702, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681203044704	geckodriver	INFO	Listening on 127.0.0.1:52785
+1681203044711	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "49425" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileg09T3q"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681203045085	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileg09T3q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49425/devtools/browser/f2e88eff-2fdc-4259-b8e1-604d5ced7eb7
+1681203046087	Marionette	INFO	Listening on port 40553
+Read port: 40553
+1681203046141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1f68-177c-101103430c02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1f68-177c-101103430c02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1f68-177c-101103430c02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-1f68-177c-101103430c02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: https://www.wayfair.com/v/captcha/%2F%2Fclient.perimeterx.net%2FPX3Vk96I6i%2Fmain.min.js, line 1: SyntaxError: expected expression, got '<'
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681203198400	geckodriver	INFO	Listening on 127.0.0.1:38701
+1681203198409	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "53811" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4UMMVn"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681203198748	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4UMMVn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53811/devtools/browser/7bb30475-3f3a-4e62-a974-0d9a065fc190
+1681203199771	Marionette	INFO	Listening on port 43699
+Read port: 43699
+1681203199840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2001-562f-16582d4cb902, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2001-562f-16582d4cb902, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2001-562f-16582d4cb902, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2001-562f-16582d4cb902, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681203242338	geckodriver	INFO	Listening on 127.0.0.1:34501
+1681203242344	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "55393" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePYOcAZ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681203242685	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePYOcAZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55393/devtools/browser/491828a8-9290-48d5-9668-8c07ca388dc5
+1681203243564	Marionette	INFO	Listening on port 45459
+Read port: 45459
+1681203243677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-202d-455f-43a06a8e7602, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-202d-455f-43a06a8e7602, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-202d-455f-43a06a8e7602, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-202d-455f-43a06a8e7602, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681203916874	geckodriver	INFO	Listening on 127.0.0.1:33223
+1681203916883	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "40821" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileV9KqUj"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681203917271	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileV9KqUj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40821/devtools/browser/3db9a939-8ba2-4afe-ad01-20aa64782659
+1681203918251	Marionette	INFO	Listening on port 45511
+Read port: 45511
+1681203918297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-22d0-a2e3-1011d14fbe02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-22d0-a2e3-1011d14fbe02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-22d0-a2e3-1011d14fbe02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-22d0-a2e3-1011d14fbe02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681204057696	geckodriver	INFO	Listening on 127.0.0.1:57229
+1681204057704	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "40275" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezLJx77"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681204058100	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezLJx77/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40275/devtools/browser/0f07e011-e208-4c5c-86a4-4bace44e716b
+1681204059115	Marionette	INFO	Listening on port 41533
+Read port: 41533
+1681204059226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-235d-1779-100ceb032d02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-235d-1779-100ceb032d02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-235d-1779-100ceb032d02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-235d-1779-100ceb032d02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: https://www.wayfair.com/v/captcha/%2F%2Fclient.perimeterx.net%2FPX3Vk96I6i%2Fmain.min.js, line 1: SyntaxError: expected expression, got '<'
+1681204135800	geckodriver	INFO	Listening on 127.0.0.1:50003
+1681204135809	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "54573" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2UDahx"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681204136190	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2UDahx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54573/devtools/browser/ef43dcf6-3a64-4c97-8ba9-a3dfbd4c3627
+1681204137216	Marionette	INFO	Listening on port 36151
+Read port: 36151
+1681204137337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-23ab-177c-101105c8b702, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-23ab-177c-101105c8b702, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-23ab-177c-101105c8b702, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-23ab-177c-101105c8b702, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681204244445	geckodriver	INFO	Listening on 127.0.0.1:33855
+1681204244454	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "40403" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTkPvcQ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681204244765	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTkPvcQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40403/devtools/browser/8d7615ab-0574-4663-a6df-7007bfb0a056
+1681204245680	Marionette	INFO	Listening on port 42093
+Read port: 42093
+1681204245790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2419-177c-101106004402, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2419-177c-101106004402, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2419-177c-101106004402, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2419-177c-101106004402, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681204267189	geckodriver	INFO	Listening on 127.0.0.1:39689
+1681204267195	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "38751" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebKmsT3"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681204267579	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebKmsT3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38751/devtools/browser/4b7ea204-21fe-47c5-9421-a760a79434e1
+1681204268458	Marionette	INFO	Listening on port 43203
+Read port: 43203
+1681204268532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-242e-1779-100cec6a5d02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-242e-1779-100cec6a5d02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-242e-1779-100cec6a5d02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-242e-1779-100cec6a5d02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681204572808	geckodriver	INFO	Listening on 127.0.0.1:44221
+1681204572817	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "36935" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilev9z1LY"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681204573170	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilev9z1LY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36935/devtools/browser/77233409-7627-481b-8a63-55812fa17fa0
+1681204574150	Marionette	INFO	Listening on port 39509
+Read port: 39509
+1681204574235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2560-562f-165836e1e502, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2560-562f-165836e1e502, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2560-562f-165836e1e502, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2560-562f-165836e1e502, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681204820041	geckodriver	INFO	Listening on 127.0.0.1:60073
+1681204820050	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "46703" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileumGSJr"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681204820370	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileumGSJr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46703/devtools/browser/f6985ca5-1fcd-41fe-8305-1fbaea5da646
+1681204821355	Marionette	INFO	Listening on port 32891
+Read port: 32891
+1681204821485	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2657-562f-165838cea602, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2657-562f-165838cea602, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2657-562f-165838cea602, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2657-562f-165838cea602, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681204933057	geckodriver	INFO	Listening on 127.0.0.1:34159
+1681204933062	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "55151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNp01RC"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681204933409	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNp01RC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55151/devtools/browser/69a47c21-2425-482d-afbc-d87b6751a104
+1681204934492	Marionette	INFO	Listening on port 34271
+Read port: 34271
+1681204934590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1681204952219	geckodriver	INFO	Listening on 127.0.0.1:37567
+1681204952226	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "34103" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLFc2Wo"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681204952533	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLFc2Wo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34103/devtools/browser/999677c4-cfeb-40e5-ae8b-f57a9a93f2b3
+1681204953617	Marionette	INFO	Listening on port 45543
+Read port: 45543
+1681204953639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.wayfair.com/v/captcha/%2F%2Fclient.perimeterx.net%2FPX3Vk96I6i%2Fmain.min.js, line 1: SyntaxError: expected expression, got '<'
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681205140839	geckodriver	INFO	Listening on 127.0.0.1:51307
+1681205140847	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "60243" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileozWN4Z"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681205141224	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileozWN4Z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60243/devtools/browser/2cd3287c-a3cb-4185-b06c-331cea7975fd
+1681205142353	Marionette	INFO	Listening on port 43119
+Read port: 43119
+1681205142478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.wayfair.com/v/captcha/%2F%2Fclient.perimeterx.net%2FPX3Vk96I6i%2Fmain.min.js, line 1: SyntaxError: expected expression, got '<'
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681205370341	geckodriver	INFO	Listening on 127.0.0.1:53925
+1681205370347	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "57519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegAtvhB"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681205370654	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegAtvhB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57519/devtools/browser/5be15ca8-6284-42c6-9491-1c4372fedc8e
+1681205371672	Marionette	INFO	Listening on port 36735
+Read port: 36735
+1681205371780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-287e-465e-0863d0e01502, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-287e-465e-0863d0e01502, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-287e-465e-0863d0e01502, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-287e-465e-0863d0e01502, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681205464095	geckodriver	INFO	Listening on 127.0.0.1:47023
+1681205464103	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "55681" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileULHUwt"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681205464410	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileULHUwt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55681/devtools/browser/d5b8665d-019b-4b58-bd3f-47170fbd6a06
+1681205465436	Marionette	INFO	Listening on port 36031
+Read port: 36031
+1681205465529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-28dc-1779-100cf4bbde02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-28dc-1779-100cf4bbde02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-28dc-1779-100cf4bbde02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-28dc-1779-100cf4bbde02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681205594792	geckodriver	INFO	Listening on 127.0.0.1:53481
+1681205594800	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "47843" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileL0EmMJ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681205595139	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileL0EmMJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47843/devtools/browser/2959b004-4a31-4dcc-a650-2b1b96f3444e
+1681205596108	Marionette	INFO	Listening on port 36547
+Read port: 36547
+1681205596232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-295e-1779-100cf5a7ae02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-295e-1779-100cf5a7ae02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-295e-1779-100cf5a7ae02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-295e-1779-100cf5a7ae02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681205766681	geckodriver	INFO	Listening on 127.0.0.1:57775
+1681205766690	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "58969" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePkwuLv"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681205767018	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePkwuLv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58969/devtools/browser/9f2f3387-d2e8-4504-bf01-ced383dd0f1f
+1681205767939	Marionette	INFO	Listening on port 39367
+Read port: 39367
+1681205768020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2a0b-177c-1011094a8f02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2a0b-177c-1011094a8f02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2a0b-177c-1011094a8f02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2a0b-177c-1011094a8f02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681205978178	geckodriver	INFO	Listening on 127.0.0.1:52773
+1681205978187	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "34021" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNvwgxI"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681205978549	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNvwgxI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34021/devtools/browser/1913fcbd-5a51-40a1-bef0-56fcaeb1b7e0
+1681205979598	Marionette	INFO	Listening on port 39693
+Read port: 39693
+1681205979717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2adf-1779-100cf8625002, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2adf-1779-100cf8625002, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2adf-1779-100cf8625002, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2adf-1779-100cf8625002, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681206034536	geckodriver	INFO	Listening on 127.0.0.1:54873
+1681206034545	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "38363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1VHhVI"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681206034850	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1VHhVI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38363/devtools/browser/2504f573-0adf-437d-8878-1e7872751e79
+1681206035834	Marionette	INFO	Listening on port 36217
+Read port: 36217
+1681206035858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2b16-564a-1659072a4c02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2b16-564a-1659072a4c02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2b16-564a-1659072a4c02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2b16-564a-1659072a4c02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681206080497	geckodriver	INFO	Listening on 127.0.0.1:41155
+1681206080506	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "36191" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileV5hX03"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681206080810	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileV5hX03/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36191/devtools/browser/def96314-7584-4dbc-a138-46f741908533
+1681206081877	Marionette	INFO	Listening on port 33147
+Read port: 33147
+1681206081942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2b44-465e-0863d5ce0602, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2b44-465e-0863d5ce0602, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2b44-465e-0863d5ce0602, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2b44-465e-0863d5ce0602, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681206119971	geckodriver	INFO	Listening on 127.0.0.1:35613
+1681206119978	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "51905" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezHOZCn"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681206120394	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezHOZCn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51905/devtools/browser/6a1d2138-cf45-4929-b3fd-d2f9f2cfd12b
+1681206121470	Marionette	INFO	Listening on port 42723
+Read port: 42723
+1681206121512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2b6c-562f-16584188e202, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2b6c-562f-16584188e202, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2b6c-562f-16584188e202, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2b6c-562f-16584188e202, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681206156671	geckodriver	INFO	Listening on 127.0.0.1:36513
+1681206156681	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "53761" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3AJopW"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681206157006	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3AJopW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53761/devtools/browser/d123ce5e-090a-4e47-825e-856a007d7c31
+1681206158042	Marionette	INFO	Listening on port 37167
+Read port: 37167
+1681206158099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2b90-a2e3-1011e0c6f102, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2b90-a2e3-1011e0c6f102, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2b90-a2e3-1011e0c6f102, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2b90-a2e3-1011e0c6f102, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681206245743	geckodriver	INFO	Listening on 127.0.0.1:55463
+1681206245751	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "50263" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8d0H2b"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681206246107	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8d0H2b/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50263/devtools/browser/64c0b4ff-9a17-4c7c-81be-c00c9f60d5da
+1681206247168	Marionette	INFO	Listening on port 45363
+Read port: 45363
+1681206247273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2be9-a2e3-1011e162fc02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2be9-a2e3-1011e162fc02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2be9-a2e3-1011e162fc02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2be9-a2e3-1011e162fc02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681206333099	geckodriver	INFO	Listening on 127.0.0.1:52033
+1681206333107	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "35155" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1EC16G"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681206333483	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1EC16G/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35155/devtools/browser/0a658691-fd0e-4849-8060-bb0ad2bc9708
+1681206334476	Marionette	INFO	Listening on port 37711
+Read port: 37711
+1681206334524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2c41-5632-165719dc7302, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2c41-5632-165719dc7302, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2c41-5632-165719dc7302, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2c41-5632-165719dc7302, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681206390276	geckodriver	INFO	Listening on 127.0.0.1:39195
+1681206390281	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "48457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNd5u1J"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681206390594	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNd5u1J/search.json.mozlz4", (void 0)))
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+DevTools listening on ws://localhost:48457/devtools/browser/95a01cb2-0a23-4c4c-8a6c-2f8e0f09d0e4
+1681206391582	Marionette	INFO	Listening on port 32843
+Read port: 32843
+1681206391602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2c7a-1779-100cfb5ed002, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2c7a-1779-100cfb5ed002, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2c7a-1779-100cfb5ed002, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2c7a-1779-100cfb5ed002, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681206636493	geckodriver	INFO	Listening on 127.0.0.1:42399
+1681206636500	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "43767" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebaMVS5"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681206636871	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebaMVS5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43767/devtools/browser/56791817-343d-4518-81f1-520d3c1697a0
+1681206637847	Marionette	INFO	Listening on port 39027
+Read port: 39027
+1681206637932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2d70-a2e3-1011e40ed402, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2d70-a2e3-1011e40ed402, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2d70-a2e3-1011e40ed402, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2d70-a2e3-1011e40ed402, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681206802665	geckodriver	INFO	Listening on 127.0.0.1:43257
+1681206802674	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "36409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileh6k9RU"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681206803065	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileh6k9RU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36409/devtools/browser/70091d43-d8e3-47fb-828e-7733362dee10
+1681206803972	Marionette	INFO	Listening on port 41487
+Read port: 41487
+1681206803993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2e16-562f-16584643ee02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2e16-562f-16584643ee02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2e16-562f-16584643ee02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-2e16-562f-16584643ee02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+JavaScript error: https://www.wayfair.com/v/captcha/%2F%2Fclient.perimeterx.net%2FPX3Vk96I6i%2Fmain.min.js, line 1: SyntaxError: expected expression, got '<'
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681210083181	geckodriver	INFO	Listening on 127.0.0.1:38711
+1681210083189	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "54719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecNGnDd"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681210083545	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecNGnDd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54719/devtools/browser/ae20d165-6afe-402e-81fa-0b91134dff33
+1681210084649	Marionette	INFO	Listening on port 33239
+Read port: 33239
+1681210084711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-3ae7-455f-43a07b5e7c02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-3ae7-455f-43a07b5e7c02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-3ae7-455f-43a07b5e7c02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-3ae7-455f-43a07b5e7c02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681212297035	geckodriver	INFO	Listening on 127.0.0.1:57623
+1681212297041	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "42153" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilertytJz"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681212297397	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilertytJz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42153/devtools/browser/d55e34dc-0adb-4bba-84af-44844f3d15ad
+1681212298471	Marionette	INFO	Listening on port 37075
+Read port: 37075
+1681212298559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/wayfair-waychat-wrapper.d9209350.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-browse/bundles/wayfair/en-us/js/719.c9867056.bundle.js, line 2: unreachable code after return statement
+JavaScript warning: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/613.09b71694.bundle.js, line 2: unreachable code after return statement
+JavaScript error: https://secure.img1-fg.wfcdn.com/webpack/sf-ui-help/bundles/wayfair/en-us/js/109.d016f29c.bundle.js, line 2: Error: {"captcha":1}
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-438d-562f-16587650bd02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-438d-562f-16587650bd02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-438d-562f-16587650bd02, line 7: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://beacon.riskified.com/?shop=wayfair.com&sid=23e17d3a-6435-438d-562f-16587650bd02, line 7: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)

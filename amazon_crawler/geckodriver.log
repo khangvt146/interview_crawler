@@ -1,0 +1,832 @@
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681063173160	geckodriver	INFO	Listening on 127.0.0.1:52865
+1681063173168	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "58021" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilez2tUPv"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681063173496	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilez2tUPv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58021/devtools/browser/10b1644d-14ad-435e-83e2-71081ebc0a99
+1681063174519	Marionette	INFO	Listening on port 46423
+Read port: 46423
+1681063174603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1681063240575	geckodriver	INFO	Listening on 127.0.0.1:49505
+1681063240584	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "52281" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledeDoqN"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681063240889	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledeDoqN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52281/devtools/browser/78617c0c-bd2d-4b86-bfa5-7a5628907533
+1681063241963	Marionette	INFO	Listening on port 38053
+Read port: 38053
+1681063242009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1681063280125	geckodriver	INFO	Listening on 127.0.0.1:49519
+1681063280134	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "50897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilej4BmRr"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681063280506	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilej4BmRr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50897/devtools/browser/1541eeb9-aca3-4766-b263-2656d059f931
+1681063281460	Marionette	INFO	Listening on port 33187
+Read port: 33187
+1681063281566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://m.media-amazon.com/images/I/51EIwpasq4L.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://m.media-amazon.com/images/I/51EIwpasq4L.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript warning: https://www.amazon.com/gp/bestsellers/hi/172456 line 7 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/hi/172456 line 7 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/gp/bestsellers/hi/172456 line 7 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/hi/172456 line 7 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: https://m.media-amazon.com/images/I/51EIwpasq4L.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://m.media-amazon.com/images/I/51EIwpasq4L.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript warning: https://www.amazon.com/gp/bestsellers/hi/193870011 line 7 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/hi/193870011 line 7 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/gp/bestsellers/hi/193870011 line 7 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/hi/193870011 line 7 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: https://m.media-amazon.com/images/I/51EIwpasq4L.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://m.media-amazon.com/images/I/51EIwpasq4L.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript warning: https://www.amazon.com/gp/bestsellers/hi/16225007011 line 7 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/hi/16225007011 line 7 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/gp/bestsellers/hi/16225007011 line 7 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/hi/16225007011 line 7 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681063365152	geckodriver	INFO	Listening on 127.0.0.1:58659
+1681063365160	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "51921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelrDZMl"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681063365546	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelrDZMl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51921/devtools/browser/2d2452b5-3a3b-475f-8930-cd8f68fe8d4a
+1681063366510	Marionette	INFO	Listening on port 36441
+Read port: 36441
+1681063366594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1681063387726	geckodriver	INFO	Listening on 127.0.0.1:46813
+1681063387734	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "45743" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJ3DGbz"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681063388063	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJ3DGbz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45743/devtools/browser/8b66a32f-252f-422c-a1df-28bf13b43d9c
+1681063389155	Marionette	INFO	Listening on port 42847
+Read port: 42847
+1681063389269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681063528392	geckodriver	INFO	Listening on 127.0.0.1:39153
+1681063528399	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "39735" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6gW0rV"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681063528719	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6gW0rV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39735/devtools/browser/08aeac17-5831-4c2b-8770-0d9e948c248e
+1681063529817	Marionette	INFO	Listening on port 38201
+Read port: 38201
+1681063529936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681100347660	geckodriver	INFO	Listening on 127.0.0.1:58349
+1681100347668	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "40681" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMNfyNQ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681100348027	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMNfyNQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40681/devtools/browser/20919dea-67df-4567-85a9-b64f1a21b012
+1681100349001	Marionette	INFO	Listening on port 44729
+Read port: 44729
+1681100349097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9807 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9807 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9807 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9807 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://m.media-amazon.com/images/I/81EnDAntzlL.js?AUIClients/FWCIMAssets, line 298: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://m.media-amazon.com/images/I/81EnDAntzlL.js?AUIClients/FWCIMAssets, line 298: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681100572385	geckodriver	INFO	Listening on 127.0.0.1:33781
+1681100572392	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "60901" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevJlNNc"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681100572740	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevJlNNc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60901/devtools/browser/00a3788e-95df-4e42-a696-5476c177b03e
+1681100573702	Marionette	INFO	Listening on port 38279
+Read port: 38279
+1681100573811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9794 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9794 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9794 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9794 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681100742369	geckodriver	INFO	Listening on 127.0.0.1:51847
+1681100742378	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "40419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSDR8zj"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681100742723	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSDR8zj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40419/devtools/browser/f2a38c22-05f5-4154-8c03-dbb7bdb173fe
+1681100743808	Marionette	INFO	Listening on port 42175
+Read port: 42175
+1681100743909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH?th=1 line 7 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH?th=1 line 7 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH?th=1 line 7 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH?th=1 line 7 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681100772753	geckodriver	INFO	Listening on 127.0.0.1:48725
+1681100772758	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "34561" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemotLui"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681100773162	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemotLui/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34561/devtools/browser/39da1883-4b20-4ae6-828a-b5099c5b8486
+1681100774230	Marionette	INFO	Listening on port 36661
+Read port: 36661
+1681100774277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9655 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9655 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9655 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9655 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681100854903	geckodriver	INFO	Listening on 127.0.0.1:50307
+1681100854913	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "43985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTZ6tl2"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681100855241	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTZ6tl2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43985/devtools/browser/20eb4c68-9207-4fd7-bafd-d520ac55f7eb
+1681100856301	Marionette	INFO	Listening on port 36749
+Read port: 36749
+1681100856340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9933 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9933 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9933 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9933 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://m.media-amazon.com/images/I/81EnDAntzlL.js?AUIClients/FWCIMAssets, line 298: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://m.media-amazon.com/images/I/81EnDAntzlL.js?AUIClients/FWCIMAssets, line 298: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681101453968	geckodriver	INFO	Listening on 127.0.0.1:58575
+1681101453978	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "43495" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilet8jbSh"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681101454358	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilet8jbSh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43495/devtools/browser/e17632ca-bf51-49d7-a313-f9f89029e72a
+1681101455437	Marionette	INFO	Listening on port 38253
+Read port: 38253
+1681101455502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9736 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9736 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9736 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9736 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://m.media-amazon.com/images/I/81EnDAntzlL.js?AUIClients/FWCIMAssets, line 298: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://m.media-amazon.com/images/I/81EnDAntzlL.js?AUIClients/FWCIMAssets, line 298: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681101715123	geckodriver	INFO	Listening on 127.0.0.1:44479
+1681101715133	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "54729" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebx5iDJ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681101715543	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebx5iDJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54729/devtools/browser/dc9c3eb0-3a0f-4507-8a50-42c2a6e7fc65
+1681101716659	Marionette	INFO	Listening on port 34311
+Read port: 34311
+1681101716764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9843 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9843 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9843 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9843 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681101843114	geckodriver	INFO	Listening on 127.0.0.1:48365
+1681101843123	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "58049" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNlh6wB"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681101843459	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNlh6wB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58049/devtools/browser/1e0eb1b4-46de-48ce-8073-08bd16ceba51
+1681101844490	Marionette	INFO	Listening on port 44695
+Read port: 44695
+1681101844551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9671 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9671 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9671 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9671 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681102051194	geckodriver	INFO	Listening on 127.0.0.1:40557
+1681102051203	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "36355" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerNSuFk"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681102051588	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerNSuFk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36355/devtools/browser/353684c9-edb3-44a8-a4c9-12c4ec077617
+1681102052717	Marionette	INFO	Listening on port 40489
+Read port: 40489
+1681102052831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH?th=1 line 7 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH?th=1 line 7 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH?th=1 line 7 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH?th=1 line 7 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681102083083	geckodriver	INFO	Listening on 127.0.0.1:57949
+1681102083090	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "44651" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletFp2c6"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681102083466	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletFp2c6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44651/devtools/browser/94aebb48-d4eb-40c8-99d3-7032e780b6b5
+1681102084538	Marionette	INFO	Listening on port 34143
+Read port: 34143
+1681102084619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 7 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 7 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 7 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 7 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681102127045	geckodriver	INFO	Listening on 127.0.0.1:52951
+1681102127054	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "33965" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileISC3py"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681102127402	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileISC3py/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33965/devtools/browser/12000989-7a92-42ec-87d1-27d50391ccb7
+1681102128489	Marionette	INFO	Listening on port 40665
+Read port: 40665
+1681102128583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9783 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9783 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9783 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9783 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681102165359	geckodriver	INFO	Listening on 127.0.0.1:46263
+1681102165369	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "34493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTFuKaY"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681102165736	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTFuKaY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34493/devtools/browser/19d2bdcb-df47-49fc-ab83-172daa064129
+1681102166854	Marionette	INFO	Listening on port 42597
+Read port: 42597
+1681102166890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9804 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9804 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9804 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9804 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681102329418	geckodriver	INFO	Listening on 127.0.0.1:50233
+1681102329425	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "47015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileevXs9g"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681102329802	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileevXs9g/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47015/devtools/browser/4133f3ab-6574-4107-98ff-0fe6ef8e8cb3
+1681102330963	Marionette	INFO	Listening on port 44999
+Read port: 44999
+1681102331054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9658 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9658 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9658 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9658 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681102465634	geckodriver	INFO	Listening on 127.0.0.1:54777
+1681102465641	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "51641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejN7flt"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681102465978	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejN7flt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51641/devtools/browser/6e847265-5125-48c6-95ca-5ce9fd938ac6
+1681102466945	Marionette	INFO	Listening on port 39691
+Read port: 39691
+1681102467076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9804 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9804 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9804 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9804 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://m.media-amazon.com/images/I/81EnDAntzlL.js?AUIClients/FWCIMAssets, line 298: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://m.media-amazon.com/images/I/81EnDAntzlL.js?AUIClients/FWCIMAssets, line 298: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681102559294	geckodriver	INFO	Listening on 127.0.0.1:38237
+1681102559303	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "54921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileh4UjKu"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681102559631	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileh4UjKu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54921/devtools/browser/d458a12d-4440-4aa0-be26-56d4b4af8e0b
+1681102560878	Marionette	INFO	Listening on port 35249
+Read port: 35249
+1681102560943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9704 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9704 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9704 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9704 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681102689561	geckodriver	INFO	Listening on 127.0.0.1:40421
+1681102689568	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "51917" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3IqamL"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681102689910	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3IqamL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51917/devtools/browser/d0276a07-19c9-47c7-ab36-44219a7d34ee
+1681102691008	Marionette	INFO	Listening on port 33093
+Read port: 33093
+1681102691098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9802 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9802 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9802 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9802 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://m.media-amazon.com/images/I/81EnDAntzlL.js?AUIClients/FWCIMAssets, line 298: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://m.media-amazon.com/images/I/81EnDAntzlL.js?AUIClients/FWCIMAssets, line 298: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681102892810	geckodriver	INFO	Listening on 127.0.0.1:51137
+1681102892820	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "49777" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletKqnbq"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681102893196	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletKqnbq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49777/devtools/browser/1c70c210-1da6-4235-97b6-d407abcf2568
+1681102894260	Marionette	INFO	Listening on port 40183
+Read port: 40183
+1681102894356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9671 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9671 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9671 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9671 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://m.media-amazon.com/images/I/81EnDAntzlL.js?AUIClients/FWCIMAssets, line 298: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://m.media-amazon.com/images/I/81EnDAntzlL.js?AUIClients/FWCIMAssets, line 298: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681102946101	geckodriver	INFO	Listening on 127.0.0.1:59871
+1681102946110	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "57233" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezNyYpM"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681102946459	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezNyYpM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57233/devtools/browser/437fb22f-eb16-43b2-8d43-21d870541c7f
+1681102947523	Marionette	INFO	Listening on port 35675
+Read port: 35675
+1681102947638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9827 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9827 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9827 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9827 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681103357564	geckodriver	INFO	Listening on 127.0.0.1:59111
+1681103357571	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "48365" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1tFEsM"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681103357926	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1tFEsM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48365/devtools/browser/72e59394-f1ea-4b21-806c-3a2127ee90fe
+1681103358966	Marionette	INFO	Listening on port 40057
+Read port: 40057
+1681103358991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9678 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9678 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9678 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9678 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://m.media-amazon.com/images/I/81EnDAntzlL.js?AUIClients/FWCIMAssets, line 298: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://m.media-amazon.com/images/I/81EnDAntzlL.js?AUIClients/FWCIMAssets, line 298: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681103918710	geckodriver	INFO	Listening on 127.0.0.1:44393
+1681103918720	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "57309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileq7VaDG"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681103919174	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileq7VaDG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57309/devtools/browser/8633e050-cf03-4309-ac0e-a34cbfb0581a
+1681103920253	Marionette	INFO	Listening on port 38555
+Read port: 38555
+1681103920351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9731 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9731 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9731 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9731 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681104042997	geckodriver	INFO	Listening on 127.0.0.1:48765
+1681104043006	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "42723" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8YJUPz"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681104043329	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8YJUPz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42723/devtools/browser/9ba4afc8-b40c-49a5-840f-0983a8b032c2
+1681104044449	Marionette	INFO	Listening on port 33433
+Read port: 33433
+1681104044538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9992 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9992 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9992 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9992 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681104465187	geckodriver	INFO	Listening on 127.0.0.1:40225
+1681104465196	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "34645" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuABLrJ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681104465534	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuABLrJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34645/devtools/browser/1c15211f-1b49-40c2-b4ff-e0fd70a27cf5
+1681104466614	Marionette	INFO	Listening on port 42265
+Read port: 42265
+1681104466729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9713 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9713 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9713 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9713 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681104637264	geckodriver	INFO	Listening on 127.0.0.1:42211
+1681104637270	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "34273" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMKyitf"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681104637578	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMKyitf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34273/devtools/browser/44b313b1-55b6-41fe-bba5-e7caab43363d
+1681104638650	Marionette	INFO	Listening on port 38157
+Read port: 38157
+1681104638688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH?th=1 line 7 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH?th=1 line 7 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH?th=1 line 7 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH?th=1 line 7 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681104789214	geckodriver	INFO	Listening on 127.0.0.1:54923
+1681104789223	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "45309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemGsXs8"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681104789586	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemGsXs8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45309/devtools/browser/f0f64f41-8111-4029-bb0f-41d8f101934c
+1681104790673	Marionette	INFO	Listening on port 41977
+Read port: 41977
+1681104790755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH?th=1 line 7 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH?th=1 line 7 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH?th=1 line 7 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH?th=1 line 7 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681104925043	geckodriver	INFO	Listening on 127.0.0.1:54435
+1681104925052	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "46795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKMtnSZ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681104925413	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKMtnSZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46795/devtools/browser/a85b8c14-1096-477e-a4ee-966d47c8501d
+1681104926422	Marionette	INFO	Listening on port 36625
+Read port: 36625
+1681104926471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07MFZXR1B line 11159 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07MFZXR1B line 11159 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07MFZXR1B line 11159 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07MFZXR1B line 11159 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9581 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9581 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9581 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9581 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07VS8QCXC line 9530 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07VS8QCXC line 9530 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07VS8QCXC line 9530 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07VS8QCXC line 9530 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681105150942	geckodriver	INFO	Listening on 127.0.0.1:46667
+1681105150950	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "60451" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQ4WEjX"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681105151310	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQ4WEjX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60451/devtools/browser/0aa2d3ce-c852-475e-b7c1-83794890b556
+1681105152313	Marionette	INFO	Listening on port 38399
+Read port: 38399
+1681105152380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07MFZXR1B?th=1 line 7 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07MFZXR1B?th=1 line 7 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07MFZXR1B?th=1 line 7 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07MFZXR1B?th=1 line 7 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 7 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 7 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 7 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 7 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+1681105666573	geckodriver	INFO	Listening on 127.0.0.1:44297
+1681105666578	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "51745" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHc6Adg"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681105666921	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHc6Adg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51745/devtools/browser/8d245aaf-94cc-41d9-893d-4dec53a5cae1
+1681105668082	Marionette	INFO	Listening on port 34283
+Read port: 34283
+1681105668217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/dp/B07MFZXR1B line 11041 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07MFZXR1B line 11041 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07MFZXR1B line 11041 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07MFZXR1B line 11041 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9557 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9557 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9557 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07CRG7BBH line 9557 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07VS8QCXC line 9560 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07VS8QCXC line 9560 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/dp/B07VS8QCXC line 9560 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/dp/B07VS8QCXC line 9560 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1681105803458	geckodriver	INFO	Listening on 127.0.0.1:49859
+1681105803463	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "59091" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDtohOj"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 2 GPUs detected via PCI, secondary GPU is arbitrary
+1681105803791	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDtohOj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59091/devtools/browser/3983cd62-5e1b-45c6-a2e5-11e598d5c66b
+1681105804860	Marionette	INFO	Listening on port 46301
+Read port: 46301
+1681105804893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/gp/bestsellers/hi/16225007011 line 2254 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/hi/16225007011 line 2254 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/gp/bestsellers/hi/16225007011 line 2254 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/hi/16225007011 line 2254 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: https://m.media-amazon.com/images/I/51EIwpasq4L.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://m.media-amazon.com/images/I/51EIwpasq4L.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript warning: https://www.amazon.com/gp/bestsellers/hi/172456 line 2240 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/hi/172456 line 2240 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/gp/bestsellers/hi/172456 line 2240 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/hi/172456 line 2240 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: https://m.media-amazon.com/images/I/51EIwpasq4L.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://m.media-amazon.com/images/I/51EIwpasq4L.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript warning: https://www.amazon.com/gp/bestsellers/hi/193870011 line 2240 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/hi/193870011 line 2240 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://www.amazon.com/gp/bestsellers/hi/193870011 line 2240 > injectedScript, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/hi/193870011 line 2240 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: https://m.media-amazon.com/images/I/51EIwpasq4L.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://m.media-amazon.com/images/I/51EIwpasq4L.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+./geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver --port <PORT>
+
+For more information try --help
+
